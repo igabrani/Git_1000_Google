@@ -2,7 +2,8 @@
 
 Course Link: https://www.coursera.org/learn/introduction-git-github?
 Student Discount Link: https://www.coursera.org/courseraplus/special/40-percent-offer-a?irclickid=RAgRUnzdPxycUe73Hc0qjw0WUksQBiRDVQ1H2s0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2878304&utm_content=b2c&utm_campaignid=projectx&utm_term=14726_CR_1164545_cursms
-(Offer Ends March 2026)
+(**Offer Ends March 2026**)
+
 
 
 ####Helpful Links 
